@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="186" height="250" viewBox="0 0 186 250">
+  <g id="Group_2" data-name="Group 2" transform="translate(-421 -108)">
+    <g id="Rectangle_2" data-name="Rectangle 2" transform="translate(421 108)" fill="#f1fdf1" stroke="#4d7455" stroke-width="1">
+      <rect width="186" height="250" rx="21" stroke="none"/>
+      <rect x="0.5" y="0.5" width="185" height="249" rx="20.5" fill="none"/>
+    </g>
+    <line id="Line_7" data-name="Line 7" x2="81.365" y2="0.138" transform="translate(488.371 172.5)" fill="none" stroke="#4d7455" stroke-width="7"/>
+    <line id="Line_8" data-name="Line 8" x2="111.235" transform="translate(458.382 255.362)" fill="none" stroke="#4d7455" stroke-width="7"/>
+    <line id="Line_9" data-name="Line 9" x2="110.235" y2="0.724" transform="translate(458.5 295.5)" fill="none" stroke="#4d7455" stroke-width="7"/>
+    <line id="Line_10" data-name="Line 10" x2="111.235" transform="translate(458.5 214.5)" fill="none" stroke="#4d7455" stroke-width="7"/>
+  </g>
+</svg>
